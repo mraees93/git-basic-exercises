@@ -1,0 +1,500 @@
+   21  cd Raees2
+   22  touch index.js
+   23  node index.js
+   24  cd desktop
+   25  clear
+   26  cd desktop
+   27  mkdir 
+   28  desktop
+   29  cd desktop
+   30  node --version
+   31  clear
+   32  npx create-react-app my-app
+   33  node --version
+   34  my-app
+   35  npx create-react-app my-app
+   36  cd /c/Users/Gaziem/my-app
+   37  npm start
+   38  cd /c/Users/Gaziem/my-app
+   39  npm start
+   40  npx create-react-app my-app
+   41  cd my-app
+   42  npm start
+   43  npx create-react-app my-app
+   44  cd my-app
+   45  npm start
+   46  npx create-react-app my-app
+   47  cd my-app
+   48  npm start
+   49  npm start
+   50  clear
+   51  npm start
+   52  npm start
+   53  npm start
+   54  npm start
+   55  npm install
+   56  npm start
+   57  npm install --save-dev @babel/preset-react
+   58  grep -r "path/to/DeletedComponent.js" ./*
+   59  mv node_modules/.cache node_modules/.cacheBackup
+   60  clear
+   61  grep -r "path/to/DeletedComponent.js" ./*
+   62  clear
+   63  mv node_modules/.cache node_modules/.cacheBackup
+   64  mkdir myproject
+   65  cd myproject
+   66  mkdir myproject
+   67  mkdir myproject
+   68  cd myproject
+   69  python3 -m venv venv
+   70  clear
+   71  py -3 -m venv venv
+   72  python --version
+   73  python3 --version
+   74  python3 --version
+   75  python3 --version
+   76  python3 --version
+   77  python --version
+   78  python --version
+   79  python3 --version
+   80  python3.7 --version
+   81  cd myproject
+   82  set FLASK_APP=hello.py
+   83  python -m flask run
+   84  set FLASK
+   85  set FLASK_APP=hello.py
+   86  python -m flask run
+   87  clear
+   88  cd desktop
+   89  mkdir myproject
+   90  mkdir myproject
+   91  cd myproject
+   92  python3 -m venv venv
+   93  py -3 -m venv venv
+   94  venv\Scripts\activate
+   95  cd my-app
+   96  ls arc
+   97  arc
+   98  npm i -g typescript
+   99  npm i g @angular/cli
+  100  mkdir my-app
+  101  cd my-app
+  102  npx create-react-app my-app
+  103  cd my-app
+  104  npm start
+  105  cd my-app
+  106  yarn add @material-ui/core@next
+  107  npm install @material-ui/core
+  108  npm start
+  109  mkdir webpack-react-tutorial && cd $_
+  110  mkdir -p src
+  111  npm init -y
+  112  npm i webpack webpack-cli --save-dev
+  113  npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+  114  npm i react react-dom
+  115  mkdir -p src/js/components/
+  116  npm run build
+  117  npm i html-webpack-plugin html-loader --save-dev
+  118  npm run build
+  119  npm i webpack-dev-server --save-dev
+  120  npm start
+  121  npm start
+  122  cd webpack-react-tutorial
+  123  npm start
+  124  npm i webpack-dev-server --save-dev
+  125  npm start
+  126  mkdir app
+  127  cd app
+  128  npm init
+  129  npm i -s react react-dom
+  130  npm i -D babel-core babel-loader babel-preset-env babel-preset-react
+  131  npm i -D webpack webpack-cli webpack-dev-server html-webpack-plugin
+  132  mkdir package.json
+  133  mkdir react-app
+  134  cd react-app
+  135  mkdir public src
+  136  touch public/index.html src/app.js
+  137  npm init -y
+  138  npm install webpack webpack-cli --save-dev
+  139  npm install react react-dom
+  140  npm start
+  141  npm start
+  142  npm start
+  143  npm start
+  144  npm install @babel/core @babel/preset-env @babel/preset-react babel-loader --save-dev
+  145  npm start
+  146  npm start
+  147  npm start
+  148  npm install webpack-dev-server --save-dev
+  149  npm run dev-server
+  150  npm run dev-server
+  151  npx create-react-app react-app
+  152  cd react-app
+  153  npm start
+  154  npx create-react-app my-app
+  155  cd my-app
+  156  npx create-react-app my-app
+  157  npx create-react-app my-app
+  158  npx create-react-app my-app
+  159  cd desktop
+  160  cd EEZYS
+  161  cd c:/xampp
+  162  cd htdocs
+  163  cd EEZYS
+  164  git checkout -b gh-pages
+  165  cd desktop
+  166  cd EEZYS
+  167  git checkout -b gh-pages
+  168  cd desktop
+  169  cd documents
+  170  dir documents
+  171  clear
+  172  cd documents
+  173  cd documents
+  174  git clone https://github.com/mraees93/newgittest.git
+  175  dir
+  176  ls
+  177  cd newgittest
+  178  ls
+  179  git status
+  180  cd desktop
+  181  mkdir my-express-server
+  182  cd my-express-server
+  183  touch server.js
+  184  npm init
+  185  vs code .
+  186  vs-code .
+  187  vs .
+  188  atom ,
+  189  atom.
+  190  npm install express
+  191  node server.js
+  192  node server.js
+  193  node server.js
+  194  node server.js
+  195  npm install -g nodemon
+  196  node server.js
+  197  nodemon server.js
+  198  cd ~
+  199  touch .bash_profile
+  200  vim .bash_profile
+  201  mongo --version
+  202  mongod
+  203  cd desktop
+  204  cd authentication
+  205  nodemon app.js
+  206  cd desktop
+  207  cd authentication
+  208  nodemon app.js
+  209  nodemon server.js
+  210  nodemon app.js
+  211  php -v
+  212  PHP -v
+  213  cd c://xampp
+  214  cd htdocs
+  215  cd RD-PORTFOLIO
+  216  git clone https://github.com/mraees93/rdPortfolio.github.io.git
+  217  git status
+  218  git add index.html
+  219  cd https://github.com/mraees93/rdPortfolio.github.io.git
+  220  cd desktop
+  221  git add -A
+  222  cd https://github.com/mraees93/rdPortfolio.github.io.git
+  223  git clone https://github.com/mraees93/rdPortfolio.github.io.git
+  224  git add -A
+  225  git commit -m "initial Commit"
+  226  git clone https://github.com/mraees93/rdPortfolio.github.io.git
+  227  git clone https://github.com/mraees93/rdPortfolio.github.io.git
+  228  git status
+  229  vim index.html
+  230  git clone https://github.com/mraees93/rdPortfolio.github.io.git
+  231  cd rdPortfolio
+  232  cd c:/xampp/htdocs
+  233  cd RD-PORTFOLIO
+  234  cd rdPortfolio
+  235  cd rdPortfolio.github.io
+  236  ls rdPortfolio.github.io
+  237  ls RD-PORTFOLIO
+  238  git status
+  239  git add index.html
+  240  git status
+  241  git commit -m "changed img files"
+  242  git status
+  243  cd https://github.com/mraees93/EEZYS.git
+  244  cd c://users
+  245  cd gaziem
+  246  cd documents
+  247  cd GitHub
+  248  cd rdPortfolio.github.io
+  249  git config --get remote . origin . url
+  250  git config --get remote.origin.url
+  251  npm install
+  252  npx create-react-app my-app
+  253  node --version
+  254  npx create-react-app my-app
+  255  npx create-react-app my-app
+  256  cd c://Users/Gaziem
+  257  cd documents
+  258  cd c://
+  259  cd Users
+  260  cd Gaziem
+  261  npx create-react-app my-app
+  262  sudo kill -9 $(sudo Isof -t -i:3000)
+  263  npx create-react-app Recipe-app
+  264  npx create-react-app recipe-app
+  265  cd recipe-app
+  266  npm start
+  267  cd Recipe_Full_stack
+  268  npx express-generator api
+  269  cd api
+  270  npm install
+  271  npm start
+  272  node --v
+  273  node -v
+  274  cd bitcube-project
+  275  cd client
+  276  cd login
+  277  npm start
+  278  netstat -ano | findstr :3000
+  279  node server.js
+  280  cd bitcube-project
+  281  cd server
+  282  node server.js
+  283  npm install
+  284  cd desktop
+  285  cd coding
+  286  cd git-basic-exercises
+  287  touch README.md
+  288  ls -a
+  289  git status
+  290  git log
+  291  git add README.md
+  292  git status
+  293  git rm README.md
+  294  git rm -f
+  295  git rm README.md
+  296  git rm README.md -f
+  297  git status
+  298  git add README.md
+  299  touch README.md
+  300  git add README.md
+  301  git status
+  302  git commit -m "initial commit"
+  303  git log
+  304  q
+  305  nano README.md
+  306  cat README.md
+  307  git stats
+  308  git status
+  309  git commit -m "second commit"
+  310  git add raees dolley
+  311  git add README.md
+  312  git commit -m "second commit"
+  313  nano README.md
+  314  git status
+  315  git add README.md
+  316  git commit -m "third commit"
+  317  git log
+  318  git checkout
+  319  af498e7511cb79fc1ab164c792a02a2a9ae9cefd
+  320  af498e7511cb79fc1ab164c792a02a2a9ae9cefd
+  321  cat README.md
+  322  git checkout main
+  323  cat README.md
+  324  git branch
+  325  git branch milkshake-flavours
+  326  git branch
+  327  cd milkshake-flavours
+  328  git checkout
+  329  git checkout *master
+  330  git checkout -b milkshake-flavours
+  331  git checkout milkshake-flavours
+  332  touch milkshakes.md
+  333  git status
+  334  nano milkshakes.md
+  335  git status
+  336  git add milkshakes.md
+  337  git commit -m "added initial flavours"
+  338  git log
+  339  git checkout main
+  340  git checkout
+  341  git log
+  342  git branch
+  343  git checkout master
+  344  git branch history
+  345  git checkout history
+  346  git log
+  347  git branch
+  348  history > history.txt
+  349  git checkout history
+  350  git add history
+  351  git branch
+  352  git checkout
+  353  git add history
+  354  git add "history"
+  355  git history > history.txt
+  356  git checkout
+  357  git checkout master
+  358  git add history
+  359  git branch
+  360  history > history.txt
+  361  git add history.txt
+  362  git log
+  363  git checkout milkshake-flavours
+  364  git log
+  365  git commit -m "added history"
+  366  git reset --hard HEAD^
+  367  git log
+  368  git branch history
+  369  git checkout history
+  370  git commit -m "added history"
+  371  git add history.txt
+  372  history > history.txt
+  373  git add history.txt
+  374  git commit -m "added history"
+  375  git log
+  376  git checkout milkshake-flavours
+  377  git log
+  378  cat README.md
+  379  nano README.md
+  380  git add README.md
+  381  git commit -m "random readme changes"
+  382  git checkout history
+  383  cat README.md
+  384  git checkout milkshake-flavours
+  385  cat README.md
+  386  git checkout history
+  387  git log
+  388  rm README.md
+  389  echo "booya" > README.md
+  390  git commit -m "README.md"
+  391  git add README.md
+  392  git commit -m "rewrote readme"
+  393  git checkout master
+  394  git checkout main
+  395  ls
+  396  rm cls
+  397  ls
+  398  git log
+  399  git checkout milkshake-flavours
+  400  ls
+  401  git log
+  402  cd desktop
+  403  cd coding
+  404  cd basic-git-exercises
+  405  cd git-basic-exercises
+  406  git checkout history
+  407  ls
+  408  git log
+  409  cd desktop
+  410  cd coding
+  411  cd git-basic-exercises
+  412  git checkout main
+  413  git checkout master
+  414  git merge milkshake-flavours
+  415  git merge history
+  416  ls
+  417  git log
+  418  cd desktop
+  419  cd coding
+  420  cd git-basic-exercises
+  421  git checkout history
+  422  git merge master
+  423  git remote add origin https://github.com/mraees93/git-basic-exercises.git
+  424  git branch -M main
+  425  git push -u origin main
+  426  git branch -M milkshake-flavours
+  427  git push -u origin milkshake-flavours
+  428  git branch -M history
+  429  git push -u origin history
+  430  cd ../
+  431  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  432  cd a-repo-to-clone
+  433  git branch
+  434  git branch -a
+  435  cd ../
+  436  cd git-basic-exercises
+  437  git checkout main
+  438  git checkout master
+  439  git checkout history
+  440  git branch -a
+  441  cd ../
+  442  cd a-repo-to-clone
+  443  git branch -a
+  444  git checkout project/git-basic-exercises
+  445  git remote -v
+  446  git checkout git-basic-exercises
+  447  cd ../
+  448  cd git-basic-exercises
+  449  git init
+  450  cd ../
+  451  cd a-repo-to-clone
+  452  git remote add git-basic-exercises git:https://github.com/mraees93/git-basic-exercises.git
+  453  git log
+  454  git status
+  455  git remote add git-basic-exercises git:https://github.com/mraees93/git-basic-exercises.git
+  456  git checkout git-basic-exercises
+  457  git fetch git-basic-exercises
+  458  git remote -v
+  459  git branch
+  460  git branch git-basic-exercises
+  461  git checkout git-basic-exercises
+  462  git remote -v
+  463  git branch -a
+  464  git branch
+  465  git log
+  466  git remote add new-remote-repo https://github.com/mraees93/git-basic-exercises.git
+  467  git push git-baasic-exercises a-repo-to-clone 
+  468  git push git-basic-exercises a-repo-to-clone
+  469  git remote add new-remote-repo https://github.com/Umuzi-org/a-repo-to-clone.git
+  470  cd ../
+  471  cd git-basic-exercises
+  472  git log
+  473  cd desktop
+  474  cd coding
+  475  mkdir this-will-be-another-repo
+  476  cd this-will-be-another-repo
+  477  git init
+  478  touch README.md
+  479  git add README.md
+  480  git commit -m "README.md"
+  481  cd ../
+  482  cd git-basic-exercises
+  483  git log
+  484  cd desktop
+  485  cd coding
+  486  cd git-basic-exercises
+  487  touch ignore-me.db
+  488  git status
+  489  nano .gitignore
+  490  git status
+  491  mkdir large-directory-that-should-be-local-only
+  492  cd large-directory-that-should-be-local-only
+  493  touch readme.md
+  494  nano readme.md
+  495  cd ..
+  496  git status
+  497  nano .gitignore
+  498  git status
+  499  git add .gitignore
+  500  git commit -m "added .gitignore"
+  501  git checkout main
+  502  git checkout master
+  503  git checkout history
+  504  git merge README.md
+  505  git status
+  506  git add README.md
+  507  git status
+  508  git commit -m "added .gitignore"
+  509  git push
+  510  git branch
+  511  git branch -a
+  512  cd ../
+  513  git branch
+  514  git branch -a
+  515  cd git-basic-exercises
+  516  git branch
+  517  git branch -a
+  518  git checkout main
+  519  history.txt
+  520  history > history.txt
