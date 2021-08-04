@@ -1,3 +1,26 @@
+<<<<<<< HEAD
+=======
+    1  npm install express
+    2  npm search hyper
+    3  pwd
+    4  cd desktop
+    5  touch intro-to-node
+    6  ls -la
+    7  ls
+    8  clear
+    9  mkdir
+   10  mkdir --help
+   11  clear
+   12  .hyper.js
+   13  bash.exe
+   14  pwd
+   15  clear
+   16  cd desktop
+   17  ls
+   18  mkdir intro-to-node
+   19  mkdir Raees
+   20  mkdir Raees2
+>>>>>>> history
    21  cd Raees2
    22  touch index.js
    23  node index.js
@@ -350,6 +373,7 @@
   370  git commit -m "added history"
   371  git add history.txt
   372  history > history.txt
+<<<<<<< HEAD
   373  git add history.txt
   374  git commit -m "added history"
   375  git log
@@ -498,3 +522,5 @@
   518  git checkout main
   519  history.txt
   520  history > history.txt
+=======
+>>>>>>> history
