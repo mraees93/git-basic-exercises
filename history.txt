@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
     1  npm install express
     2  npm search hyper
     3  pwd
@@ -20,7 +19,7 @@
    18  mkdir intro-to-node
    19  mkdir Raees
    20  mkdir Raees2
->>>>>>> history
+ history
    21  cd Raees2
    22  touch index.js
    23  node index.js

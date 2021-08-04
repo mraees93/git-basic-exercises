@@ -1,5 +1,4 @@
 ignore-me.db
-<<<<<<< HEAD
-=======
+
 /large-directory-that-should-be-local-only
->>>>>>> history
+ history
